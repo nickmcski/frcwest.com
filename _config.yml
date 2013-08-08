@@ -1,0 +1,11 @@
+name: "FRC West"
+description: "FRC (FIRST Robotics Competition) in Western Canada"
+
+permalink: pretty
+url: http://frcwest.com
+
+paginator: 5
+
+markdown: rdiscount
+
+exclude: send.sh

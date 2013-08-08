@@ -1,0 +1,17 @@
+---
+layout: home
+title: Western Canada FRC Regional
+date: April 4-5, 2014
+city: Calgary, Alberta
+location: Olympic Oval
+---
+
+<center>
+{% include countdown.html %}
+</center>
+
+{% for post in site.posts limit: 1 %}
+    <h2>{{ post.title}}</h2>
+    <h5>{{ post.date | date_to_long_string }}</h5>
+    {{ post.content }}
+{% endfor %}
