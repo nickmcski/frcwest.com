@@ -1,0 +1,5 @@
+---
+layout: default
+---
+
+# School Teams

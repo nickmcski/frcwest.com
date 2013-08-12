@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# Recruit
+# Community Teams
