@@ -13,5 +13,8 @@ location: Olympic Oval
 {% for post in site.posts limit: 1 %}
     <h2>{{ post.title}}</h2>
     <h5>{{ post.date | date_to_long_string }}</h5>
-    {{ post.content }}
+    <i><a href="{{ post.url }}">Read Full Post</a></i>
+    <p>
+        {{ post.content }}
+    </p>
 {% endfor %}
