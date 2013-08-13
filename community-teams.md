@@ -3,6 +3,21 @@ layout: default
 ---
 
 # Community Teams
-To submit your community team to be able to recruit, please fill the forms and send this email:
+To submit your community team to be able to recruit, please fill the forms and send:
 
-[Link](mailto:recruit@frcwest.com?Subject=Community Team Recruiting Request&Body=I'm interested in recruiting for my team.%0A%0ATeam Name: %0ALocation: %0AAll-Girls team? %0AEmail contact for students: %0A)
+<form action="MAILTO:recruit@frcwest.com?Subject=Community Team Recruiting Request" method="post" enctype="text/plain">
+
+Team Name:<br>
+<input type="text" name="name"><br>
+
+Location:<br>
+<input type="text" name="location"><br>
+
+All Girls team?<br>
+<input type="checkbox" name="all-girls"><br>
+
+Email:<br>
+<input type="text" name="email"><br>
+
+<input type="submit" value="Send">
+</form>
