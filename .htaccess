@@ -3,4 +3,5 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} ^frcwest\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.frcwest\.com$
 RewriteRule ^curriculum$ "http\:\/\/frc\-west\.github\.io\/" [R=301,L]
+RewriteRule ^event$ "https\:\/\/www\.facebook\.com\/events\/188551191318288\/" [R=301,L]
 

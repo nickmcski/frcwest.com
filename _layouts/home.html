@@ -1,7 +1,44 @@
 {% include header.html %}
 
     <div class="row-fluid">
-        <div class="span8">
+        <div class="span2">        
+            <h4>Our Sponsors</h4>
+            <table>
+                <tr><center>
+                    <a href="http://schulich.ucalgary.ca/"><img src="/img/sponsors/schulich.jpg"></a>
+                    <a href="http://www.apegga.org/"><img style="margin-top:10px" src="/img/sponsors/apega.jpg"></a>
+                </tr></center>
+                <tr><center>
+                    <a href="http://www.huskyenergy.ca/"><img style="margin-top:10px" src="/img/sponsors/husky.jpg"></a>
+                    <a href="http://www.sait.ca/"><img style="margin-top:10px" src="/img/sponsors/sait.jpg"></a>
+                </tr></center>
+                <tr><center>
+                    <td>
+                        <a href="http://alberta.ca/"><img style="margin-top:10px" src="/img/sponsors/alberta.jpg"></a>
+                    </td>
+                    <td>
+                        <a href="http://www.cbe.ab.ca/"><img style="margin-top:10px" src="/img/sponsors/cbe.jpg"></a>
+                    </td>
+                </tr></center>
+                <tr><center>
+                    <td>
+                        <a href="http://www.cssd.ab.ca/"><img style="margin-top:10px" src="/img/sponsors/cssd.jpg"></a>
+                    </td>
+                    <td>
+                        <a href="http://www.calgary.ca/"><img style="margin-top:10px" src="/img/sponsors/cityofcalgary.jpg"></a>
+                    </td>
+                </tr></center>
+                <tr><center>
+                    <td>
+                        <a href="http://isacalgary.com/"><img style="margin-top:10px" src="/img/sponsors/isa.jpg"></a>
+                    </td>
+                    <td>
+                        <a href="http://www.tdcanadatrust.com/"><img style="margin-top:10px" src="/img/sponsors/td.jpg"></a>
+                    </td>
+                </tr></center>
+            </table>
+        </div>
+        <div class="span7">
             <center>
 
             <h1>{{ page.title }}</h1>
@@ -20,7 +57,7 @@
             
             {{ content }}
         </div>
-        <div class="span4">
+        <div class="span3">
             {% include sidebar.html %}
         </div>
     </div>
