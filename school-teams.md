@@ -10,6 +10,9 @@ To submit your school team to be able to recruit, please fill the forms and send
 Team Name:<br>
 <input type="text" name="name"><br>
 
+School:<br>
+<input type="text" name="school"><br>
+
 Location:<br>
 <input type="text" name="location"><br>
 
@@ -18,6 +21,9 @@ All Girls team?<br>
 
 Email:<br>
 <input type="text" name="email"><br>
+
+About us:<br>
+<textarea type="text" name="about-us"></textarea><br>
 
 <input type="submit" value="Send">
 </form>

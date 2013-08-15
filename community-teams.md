@@ -19,5 +19,8 @@ All Girls team?<br>
 Email:<br>
 <input type="text" name="email"><br>
 
+About us:<br>
+<textarea type="text" name="about-us"></textarea><br>
+
 <input type="submit" value="Send">
 </form>
