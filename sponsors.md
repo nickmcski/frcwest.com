@@ -8,4 +8,8 @@ Sponsors gives students the opportunities they need to work on challenges that t
 
 For all sponsorship inquiries, email [sponsor@frcwest.com](mailto:sponsor@frcwest.com).
 
-{% include sponsors.html %}
+<center>
+    <div style="max-width:300px">
+        {% include sponsors.html %}
+    </div>
+</center>
