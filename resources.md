@@ -4,19 +4,20 @@ layout: default
 
 # Resources
 
+### Getting Started
+- [How to start an FRC team](/resources/How\ to\ Start\ a\ Team.pdf)
+- [FIRST Starting a rookie team](http://www3.usfirst.org/uploadedFiles/What/FIRST_Robotics_Competition/It_is_Fun/Starting%20an%20FRC%20Team.pdf)
+
 ### FRC
 - [FRC Resources](http://www.usfirst.org/roboticsprograms/frc/resources)
 - [Find local regional staff](http://www3.usfirst.org/regional-contacts)
 - [FIRST Senior Mentor Program](http://www3.usfirst.org/community/volunteers/first-senior-mentor-program)
 - [Chief Delphi](http://www.chiefdelphi.com/forums/portal.php)
 - [FIRST Workshops, Conferences and Curriculum](http://www3.usfirst.org/roboticsprograms/firstplace/workshops-and-conferences)
-- [FIRST Starting a rookie team](http://www3.usfirst.org/uploadedFiles/What/FIRST_Robotics_Competition/It_is_Fun/Starting%20an%20FRC%20Team.pdf)
 - [What Makes a FRC Team a Success?](http://www.usfirst.org/sites/default/files/uploadedFiles/Robotics_Programs/FRC/Resources/Senior_Mentor_Conferences/10.24.12_What_makes_an_FRC_Team_a_Success.mp3)
 
 ### Recruitment
 - [Finding Non-Engineering Mentors](http://www.firstnemo.org/finding.htm)
-
-### Team Structure
 
 ### Mentoring
 - [FIRST Mentoring](http://www.usfirst.org/roboticsprograms/frc/mentoring)
