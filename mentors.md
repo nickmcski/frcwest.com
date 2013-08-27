@@ -17,7 +17,7 @@ Location:<br>
 <input type="text" name="location"><br>
 
 Skills:<br>
-<input type="text" name="skills"><br>
+<textarea type="text" name="skills"></textarea><br>
 
 About me:<br>
 <textarea type="text" name="about-me"></textarea><br>
