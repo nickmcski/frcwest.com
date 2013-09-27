@@ -8,19 +8,4 @@ FRC Teams challenge students to design, strategize, fund and build a robot that 
 
 To apply to a team, fill the forms and send:
 
-<form action="MAILTO:findateam@frcwest.com?Subject=Community Team" method="post" enctype="text/plain">
-
-Name:<br>
-<input type="text" name="name"><br>
-
-Age:<br>
-<input type="text" name="age"><br>
-
-Location:<br>
-<input type="text" name="location"><br>
-
-About me:<br>
-<textarea type="text" name="about-me"></textarea><br>
-
-<input type="submit" value="Send">
-</form>
+<iframe src="http://frcwest.us5.list-manage.com/subscribe?u=ab48032a680a118fbd55f8c3a&id=78dad46158" frameborder="0" width="100%" height="2250px"></iframe>
