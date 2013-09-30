@@ -10,7 +10,7 @@ A full list of positions can be found [here](http://www.usfirst.org/community/vo
 
 You can volunteer your time for the event (April 4-5) or help in preparations. All help is very much appreciated.
 
-To apply as an event volunteer, email [volunteer@frcwest.com](mailto:volunteer@frcwest.com)).
+To apply as an event volunteer, email [volunteer@frcwest.com](mailto:volunteer@frcwest.com).
 
 To apply as a mentor, sign up [here](/mentors).
 
