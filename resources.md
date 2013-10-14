@@ -1,8 +1,7 @@
 ---
+title: Resources
 layout: default
 ---
-
-# Resources
 
 ### Getting Started
 - [How to start an FRC team](/resources/How\ to\ Start\ a\ Team.pdf)

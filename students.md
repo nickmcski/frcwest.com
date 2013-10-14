@@ -1,8 +1,7 @@
 ---
+title: Join a team
 layout: default
 ---
-
-# Join a Team
 
 FRC Teams challenge students to design, strategize, fund and build a robot that will compete at a very high level of competition. It's fun, engaging, social and challenging for students.
 

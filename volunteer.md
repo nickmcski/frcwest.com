@@ -1,8 +1,7 @@
 ---
+title: Volunteer
 layout: default
 ---
-
-# Volunteer
 
 Volunteering is a rewarding experience, allowing you to interact and help bright young students achieve their dreams. There are a variety of volunteering positions available for all kinds of skill levels and abilities (technical and non-technical). We are always looking for more people to help out.
 

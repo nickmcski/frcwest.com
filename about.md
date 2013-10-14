@@ -1,8 +1,7 @@
 ---
+title: About Us
 layout: default
 ---
-
-# About
 
 FRC Western Canada is a FIRST Robotics Competition regional held yearly in Calgary, Alberta, Canada. Its first year was 2013.
 

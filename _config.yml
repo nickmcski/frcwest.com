@@ -8,4 +8,8 @@ paginator: 5
 
 markdown: rdiscount
 
-exclude: send.sh
+exclude: [send.sh]
+
+ftp_host: 64.34.157.160
+ftp_dir: /
+ftp_passive: false
